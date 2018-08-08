@@ -1,5 +1,6 @@
 /**
  * Created by Fabrice Armisen (farmisen@gmail.com) on 1/3/16.
+ * Updated by Damith Perera on 08/08/18
  */
 
 package com.lwansbrough.RCTCamera;
